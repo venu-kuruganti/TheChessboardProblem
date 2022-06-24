@@ -1,0 +1,15 @@
+C:\Users\venuk\Documents\Practise Projects\TheChessboardProblem\bin\Debug\net6.0\TheChessboardProblem.exe
+C:\Users\venuk\Documents\Practise Projects\TheChessboardProblem\bin\Debug\net6.0\TheChessboardProblem.deps.json
+C:\Users\venuk\Documents\Practise Projects\TheChessboardProblem\bin\Debug\net6.0\TheChessboardProblem.runtimeconfig.json
+C:\Users\venuk\Documents\Practise Projects\TheChessboardProblem\bin\Debug\net6.0\TheChessboardProblem.dll
+C:\Users\venuk\Documents\Practise Projects\TheChessboardProblem\bin\Debug\net6.0\TheChessboardProblem.pdb
+C:\Users\venuk\Documents\Practise Projects\TheChessboardProblem\obj\Debug\net6.0\TheChessboardProblem.csproj.AssemblyReference.cache
+C:\Users\venuk\Documents\Practise Projects\TheChessboardProblem\obj\Debug\net6.0\TheChessboardProblem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\venuk\Documents\Practise Projects\TheChessboardProblem\obj\Debug\net6.0\TheChessboardProblem.AssemblyInfoInputs.cache
+C:\Users\venuk\Documents\Practise Projects\TheChessboardProblem\obj\Debug\net6.0\TheChessboardProblem.AssemblyInfo.cs
+C:\Users\venuk\Documents\Practise Projects\TheChessboardProblem\obj\Debug\net6.0\TheChessboardProblem.csproj.CoreCompileInputs.cache
+C:\Users\venuk\Documents\Practise Projects\TheChessboardProblem\obj\Debug\net6.0\TheChessboardProblem.dll
+C:\Users\venuk\Documents\Practise Projects\TheChessboardProblem\obj\Debug\net6.0\refint\TheChessboardProblem.dll
+C:\Users\venuk\Documents\Practise Projects\TheChessboardProblem\obj\Debug\net6.0\TheChessboardProblem.pdb
+C:\Users\venuk\Documents\Practise Projects\TheChessboardProblem\obj\Debug\net6.0\TheChessboardProblem.genruntimeconfig.cache
+C:\Users\venuk\Documents\Practise Projects\TheChessboardProblem\obj\Debug\net6.0\ref\TheChessboardProblem.dll
